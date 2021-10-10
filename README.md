@@ -21,3 +21,6 @@ If the Sound button is turned on, then the program will emit a frequency for eve
 
 ## UI
 ![Ui image](/images/UI.png)
+
+## Issues
+The p5 sound module has some issues running in Chrome, so to access the demo link it will be best to use a browser, such as Firefox, instead of Chrome.
