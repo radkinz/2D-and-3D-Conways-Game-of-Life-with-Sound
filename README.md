@@ -14,7 +14,10 @@ Conway's Game of Life is cellular automation that visualizes the evolution of an
 ### 3D
 Alongside the normal 2D program, there is an option to run Conway's Game of Life in 3D. This version practically utilizes all the same rules as above, while also considering a cell's neighbors in the z-plane.
 
+![3D image](/images/3D.png)
+
 ### Sound
 If the Sound button is turned on, then the program will emit a frequency for every generation. The algorithm loops through every live cell and pushes a frequency, based on the cell's location, to a list. Then, the average of that list is emitted to the user. This feature works for the program in both 2D and 3D.
 
 ## UI
+![Ui image](/images/UI.png)
