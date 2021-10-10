@@ -1,0 +1,36 @@
+body {
+  margin: 2em;
+  background-color: #e1fcfd;
+}
+
+h1 {
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+
+canvas {
+  display: inline;
+  margin-top: 15px;
+  align-content: center;
+}
+
+#framerateinput {
+  font-size: 25px;
+}
+
+#framerate {
+  font-size: 18px;
+}
+
+#threeDbutton,
+#soundbutton,
+#changefrbutton {
+  font-size: 15px;
+}
+
+#threeDbutton:hover,
+#soundbutton:hover,
+#changefrbutton:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
