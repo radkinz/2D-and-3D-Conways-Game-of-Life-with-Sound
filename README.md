@@ -2,7 +2,7 @@
 A website made in p5.js that runs a 2D and 3D program of Conway's Game of Life. Additionally, it emits a frequency based on the locations of the live cells.
 
 ## Conway's Game of Life
-Conway's Game of Life is cellular automation that visualizes the evolution of an environment that abides to the following rules:
+Conway's Game of Life is cellular automaton that visualizes the evolution of an environment that abides to the following rules:
 
 1. Any live cell with fewer than two live neighbours dies
 2. Any live cell with two or three live neighbours lives
